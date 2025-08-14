@@ -1,9 +1,10 @@
+import DefaultExample from "./components/ListGroup";
 import Message from "./message";
 
 function App() {
   return (
     <div className="App">
-      <Message />
+      <DefaultExample />
     </div>
   );
 }
